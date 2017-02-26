@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 2f398d9b08cedaf4cbbf5afc755c1e75
+timeCreated: 1474838615
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: project file_facecompletedeconstructed_0
+    21300002: project file_facecompletedeconstructed_1
+    21300004: project file_facecompletedeconstructed_2
+    21300006: project file_facecompletedeconstructed_3
+    21300008: project file_facecompletedeconstructed_4
+    21300010: project file_facecompletedeconstructed_5
+    21300012: project file_facecompletedeconstructed_6
+    21300014: project file_facecompletedeconstructed_7
+    21300016: project file_facecompletedeconstructed_8
+    21300018: project file_facecompletedeconstructed_9
+    21300020: project file_facecompletedeconstructed_10
+    21300022: project file_facecompletedeconstructed_11
+    21300024: project file_facecompletedeconstructed_12
+    21300026: project file_facecompletedeconstructed_13
+    21300028: project file_facecompletedeconstructed_14
+    21300030: project file_facecompletedeconstructed_15
+    21300032: project file_facecompletedeconstructed_16
+    21300034: project file_facecompletedeconstructed_17
+    21300036: project file_facecompletedeconstructed_18
+    21300038: project file_facecompletedeconstructed_19
+    21300040: project file_facecompletedeconstructed_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 528
+        width: 386
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1170
+        width: 427
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_2
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1171
+        width: 427
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1068
+        width: 216
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1068
+        width: 216
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 962
+        width: 116
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 959
+        width: 119
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_7
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 754
+        width: 164
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_8
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 854
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 790
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 838
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 799
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_12
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 834
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_13
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 798
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 693
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_15
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 698
+        width: 113
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 322
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 352
+        width: 387
+        height: 175
+      alignment: 9
+      pivot: {x: 0.96547365, y: 0.54810095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_18
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 356
+        width: 389
+        height: 182
+      alignment: 9
+      pivot: {x: 0.04124737, y: 0.5092505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 73
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: project file_facecompletedeconstructed_20
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 120
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

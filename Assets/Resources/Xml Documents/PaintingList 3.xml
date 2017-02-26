@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PaintingCollection>
+  <Paintings>
+    <Painting name = "An Old Man Asleep by A Fire">
+      <Period>Dutch Golden Age</Period>
+	<Artist>Rembrandt</Artist>
+      <Hints>
+        <string>Rembrandt's used a heavy focus on realism, showing his portraits as they were, not an idealist version. </string>
+        <string>A master of Chiaroscuro, Rembrandt used strong lights and heavy shadows to provide his paintings a sense of depth.</string>
+        <string>He used a small color palette of colors, mostly dominated by dark earth tones and golden highlights.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Man With Golden Helmet">
+    <Period>Dutch Golden Age</Period>
+	<Artist>Rembrandt</Artist>
+      <Hints>
+        <string>Rembrandt's used a heavy focus on realism, showing his portraits as they were, not an idealist version. </string>
+        <string>A master of Chiaroscuro, Rembrandt used strong lights and heavy shadows to provide his paintings a sense of depth.</string>
+        <string>He used a small color palette of colors, mostly dominated by dark earth tones and golden highlights.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Rembrant Self Protrait">
+      <Period>Dutch Golden Age</Period>
+	<Artist>Rembrandt</Artist>
+      <Hints>
+        <string>Rembrandt's used a heavy focus on realism, showing his portraits as they were, not an idealist version. </string>
+        <string>A master of Chiaroscuro, Rembrandt used strong lights and heavy shadows to provide his paintings a sense of depth.</string>
+        <string>He used a small color palette of colors, mostly dominated by dark earth tones and golden highlights.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Woman Reading a Letter">
+      <Period>Dutch Golden Age</Period>
+	<Artist> Vermeer </Artist>
+      <Hints>
+        <string>Perhaps the most interesting aspect of Vermeer is his supposed use of a camera obscura, A device consisting of lens and mirrors that intensify light and shadows of reflections, that give his paintings realistic lighting. </string>
+        <string>He focused mostly on the mundanities of life from his hometown of Delft.</string>
+        <string>Known for his use of ultramarine, a deep blue pigment. </string>
+      </Hints>
+    </Painting>
+    <Painting name = "The Milkmaid">
+      <Period>Dutch Golden Age</Period>
+	<Artist> Vermeer </Artist>
+      <Hints>
+        <string>Perhaps the most interesting aspect of Vermeer is his supposed use of a camera obscura, A device consisting of lens and mirrors that intensify light and shadows of reflections, that give his paintings realistic lighting. </string>
+        <string>He focused mostly on the mundanities of life from his hometown of Delft.</string>
+        <string>Known for his use of ultramarine, a deep blue pigment. </string>
+      </Hints>
+    </Painting>
+      <Painting name = "The Girl With the Peral Earring">
+     <Period>Dutch Golden Age</Period>
+	<Artist> Vermeer </Artist>
+      <Hints>
+        <string>Perhaps the most interesting aspect of Vermeer is his supposed use of a camera obscura, A device consisting of lens and mirrors that intensify light and shadows of reflections, that give his paintings realistic lighting. </string>
+        <string>He focused mostly on the mundanities of life from his hometown of Delft.</string>
+        <string>Known for his use of ultramarine, a deep blue pigment. </string>
+      </Hints>
+    </Painting>
+      <Painting name = "The World Upside-Down">
+      <Period>Dutch Golden Age</Period>
+      <Artist>Jan Steen</Artist>
+      <Hints>
+        <string>Unlike his contemporaries, Jan Steen, liked to add a sense of humor to his paintings.</string>
+        <string>Known for lively interiors, often with a moralizing theme.</string>
+        <string>Warm hearted and animated scenes. These chaotic paintings inspired the Dutch epithet �A Jan Steen Household�, meaning an unkempt and messy home.</string>
+      </Hints>
+    </Painting>
+        <Painting name = "The Merry Family">
+      <Period>Dutch Golden Age</Period>
+      <Artist>Jan Steen</Artist>
+      <Hints>
+        <string>Unlike his contemporaries, Jan Steen, liked to add a sense of humor to his paintings.</string>
+        <string>Known for lively interiors, often with a moralizing theme.</string>
+        <string>Warm hearted and animated scenes. These chaotic paintings inspired the Dutch epithet �A Jan Steen Household�, meaning an unkempt and messy home.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "The Peasant Wedding">
+      <Period>Dutch Golden Age</Period>
+      <Artist>Pieter Brugeal</Artist>
+      <Hints>
+        <string>Renowned for his landscapes and other large open areas for subject matter.</string>
+        <string>The foreground and middle ground are nearly inseparable in his paintings, but the background was usually left unpainted.</string>
+        <string>In his landscapes, the peaks of his hills and mountains had harsh black lines to represent foliage.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "The Procession to Calvary">
+      <Period>Dutch Golden Age</Period>
+      <Artist>Pieter Brugeal</Artist>
+      <Hints>
+        <string>Renowned for his landscapes and other large open areas for subject matter.</string>
+        <string>The foreground and middle ground are nearly inseparable in his paintings, but the background was usually left unpainted.</string>
+        <string>In his landscapes, the peaks of his hills and mountains had harsh black lines to represent foliage.</string>
+      </Hints>
+    </Painting>
+     <Painting name = "Netherlandish Proverbs">
+      <Period>Dutch Golden Age</Period>
+      <Artist>Pieter Brugeal</Artist>
+      <Hints>
+        <string>Renowned for his landscapes and other large open areas for subject matter.</string>
+        <string>The foreground and middle ground are nearly inseparable in his paintings, but the background was usually left unpainted.</string>
+        <string>In his landscapes, the peaks of his hills and mountains had harsh black lines to represent foliage.</string>
+      </Hints>
+    </Painting>
+  </Paintings>
+</PaintingCollection>

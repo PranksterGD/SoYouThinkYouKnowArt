@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PaintingCollection>
+  <Paintings>
+      <Painting name = "Awaiting Ferry">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Dong Yuan</Artist>
+      <Hints>
+        <string>Dong Yuan utilized a stiff dry brush to paint his massive landscapes.</string>
+        <string>The mountains in his landscapes tended to fade away into the background of the painting.</string>
+        <string>He is most well-known for utilizing fishing motifs in his work.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "Xiao and Xiang Rivers">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Dong Yuan</Artist>
+      <Hints>
+        <string>Dong Yuan utilized a stiff dry brush to paint his massive landscapes.</string>
+        <string>The mountains in his landscapes tended to fade away into the background of the painting.</string>
+        <string>He is most well-known for utilizing fishing motifs in his work.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "Autumn Clouds">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Huang Gongwang</Artist>
+      <Hints>
+        <string>Huang Gongwang repeatedly layered landscape elements leaving little empty space in his paintings. </string>
+        <string>The foreground and middle ground are nearly inseparable in his paintings, but the background was usually left unpainted.</string>
+        <string>In Gongwang's landscapes, the peaks of his hills and mountains had harsh black lines to represent foliage.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "Searching for the Tao">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Huang Gongwang</Artist>
+      <Hints>
+        <string>Huang Gongwang repeatedly layered landscape elements leaving little empty space in his paintings.</string>
+        <string>The foreground and middle ground are nearly inseparable in his paintings, but the background was usually left unpainted.</string>
+        <string>In Gongwang's landscapes, the peaks of his hills and mountains had harsh black lines to represent foliage.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "Six Gentleman">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Ni Zan</Artist>
+      <Hints>
+        <string>Ni Zan used a minimal amount of ink in his paintings.</string>
+        <string>He was known as a hermit and his paintings reflected this with sparse landscapes and large expanses of emptiness.</string>
+        <string>Ni Zan lived on a riverboat and this inspired him to paint riverbanks.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "The Distant Cold Flow Pine">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Ni Zan</Artist>
+      <Hints>
+        <string>Ni Zan used a minimal amount of ink in his paintings.</string>
+        <string>He was known as a hermit and his paintings reflected this with sparse landscapes and large expanses of emptiness.</string>
+        <string>Ni Zan lived on a riverboat and this inspired him to paint riverbanks.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "Joint Landscape">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Shen Zhou</Artist>
+      <Hints>
+        <string>Shen Zhou created the "Ink Wash" technique used to create faded background and layered shadowing.</string>
+        <string>His landscapes were clearly structured and simple, with an almost abstract aesthetic.</string>
+        <string>Zhou utilized upmost control of his brush. His brushstrokes were rigid creating high contrast lines and dots.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "Lofty Mt. Lu">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Shen Zhou</Artist>
+      <Hints>
+        <string>Shen Zhou artist created the "Ink Wash" technique used to create faded background and layered shadowing.</string>
+        <string>His landscapes were clearly structured and simple, with an almost abstract aesthetic.</string>
+        <string>Zhou utilized upmost control of his brush. His brushstrokes were rigid creating high contrast lines and dots.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "Pine Stone">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Shen Zhou</Artist>
+      <Hints>
+        <string>Shen Zhou created the "Ink Wash" technique used to create faded background and layered shadowing.</string>
+        <string>His landscapes were clearly structured and simple, with an almost abstract aesthetic.</string>
+        <string>Zhou utilized upmost control of his brush. His brushstrokes were rigid creating high contrast lines and dots.</string>
+      </Hints>
+    </Painting>
+      <Painting name = "Forest Grotto in Juqu">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Wang Meng</Artist>
+      <Hints>
+        <string>Wang Meng was famous for his overgrown landscape paintings that included hints of civilization.</string>
+        <string>Ropy brushstrokes piled on top of each other helped produce dense and involved patterns in his art.</string>
+        <string>Meng regularly used blue and red inks as highlights in his work.</string>
+      </Hints>
+    </Painting>  
+      <Painting name = "The Simple Retreat">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Wang Meng</Artist>
+      <Hints>
+        <string>Wang Meng was famous for his overgrown landscape paintings that included hints of civilization.</string>
+        <string>Ropy brushstrokes piled on top of each other helped produce dense and involved patterns in his art.</string>
+        <string>Meng regularly used blue and red inks as highlights in his work.</string>
+      </Hints>
+    </Painting>  
+      <Painting name = "Writing Books Under the Pine Trees">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Wang Meng</Artist>
+      <Hints>
+        <string>Wang Meng was famous for his overgrown landscape paintings that included hints of civilization.</string>
+        <string>Ropy brushstrokes piled on top of each other helped produce dense and involved patterns in his art.</string>
+        <string>Meng regularly used blue and red inks as highlights in his work.</string>
+      </Hints>
+    </Painting>     
+      <Painting name = "Central Mountain">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Wu Zhen</Artist>
+      <Hints>
+        <string>Wu Zhen emphasized balance in his painting through balanced symmetry.</string>
+        <string>His ink work mixed smooth curving, flowing lines with pointed dotes.</string>
+        <string>All his painting included mountains with rounded peaks. This was reminiscent of the geography of Zhen's home in Northern China.</string>
+      </Hints>
+    </Painting>  
+      <Painting name = "Distant Mountain">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Wu Zhen</Artist>
+      <Hints>
+        <string>Wu Zhen emphasized balance in his painting through balanced symmetry.</string>
+        <string>His ink work mixed smooth curving, flowing lines with pointed dotes.</string>
+        <string>All his painting included mountains with rounded peaks. This was reminiscent of the geography of Zhen's home in Northern China.</string>
+      </Hints>
+    </Painting>   
+      <Painting name = "Fisherman">
+      <Period>ChineseLiteratiPainting</Period>
+      <Artist>Wu Zhen</Artist>
+      <Hints>
+        <string>Wu Zhen emphasized balance in his painting through balanced symmetry.</string>
+        <string>His ink work mixed smooth curving, flowing lines with pointed dotes.</string>
+        <string>All his painting included mountains with rounded peaks. This was reminiscent of the geography of Zhen's home in Northern China.</string>
+      </Hints>
+    </Painting>  
+  </Paintings>
+</PaintingCollection>

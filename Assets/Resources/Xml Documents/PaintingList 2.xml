@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PaintingCollection>
+  <Paintings>
+    <Painting name = "Le Moulin de la Galette">
+      <Period>French Impressionism</Period>
+      <Artist>Pierre Auguste Renoir</Artist>
+      <Hints>
+        <string>Renoir painted energetic scenes with groups of people in intimate and candid compositions.</string>
+        <string>He applied vibrant light and saturated colors to create lively scenes of Parisian life.</string>      
+	<string>Renoir used freely brushed touches of color to create sparkling blotches of light.</string>
+      </Hints>
+    </Painting>
+     <Painting name = "Luncheon of the Boating Party">
+      <Period>French Impressionism</Period>
+      <Artist>Pierre Auguste Renoir</Artist>
+      <Hints>
+        <string>Renoir painted energetic scenes with groups of people in intimate and candid compositions.</string>
+        <string>He applied vibrant light and saturated colors to create lively scenes of Parisian life.</string>      
+	<string>Renoir used freely brushed touches of color to create sparkling blotches of light.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "The Swing">
+      <Period>French Impressionism</Period>
+      <Artist>Pierre Auguste Renoir</Artist>
+      <Hints>
+        <string>Renoir painted energetic scenes with groups of people in intimate and candid compositions.</string>
+        <string>He applied vibrant light and saturated colors to create lively scenes of Parisian life.</string>      
+	<string>Renoir used freely brushed touches of color to create sparkling blotches of light.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Ballet Rehearsal">
+      <Period>French Impressionism</Period>
+      <Artist>Edgar Degas</Artist>
+      <Hints>
+        <string>Degas loved dancers. This passion moved him to frequently paint young ballet dancers.</string>
+        <string>Degas sought to bring the viewers into the painting by using open compositions and non-centered subjects.</string>
+        <string>Degas created the effect of movement in his paintings through blurry, out of focus depictions of his subject.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Rehearsal">
+      <Period>French Impressionism</Period>
+      <Artist>Edgar Degas</Artist>
+      <Hints>
+        <string>Degas loved dancers. This passion moved him to frequently paint young ballet dancers.</string>
+        <string>Degas sought to bring the viewers into the painting by using open compositions and non-centered subjects.</string>
+        <string>Degas created the effect of movement in his paintings through blurry, out of focus depictions of his subject.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "The Rehearsal on Stage">
+      <Period>French Impressionism</Period>
+      <Artist>Edgar Degas</Artist>
+      <Hints>
+        <string>Degas loved dancers. This passion moved him to frequently paint young ballet dancers.</string>
+        <string>Degas sought to bring the viewers into the painting by using open compositions and non-centered subjects.</string>
+        <string>Degas created the effect of movement in his paintings through blurry, out of focus depictions of his subject.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Summer Day">
+      <Period>French Impressionism</Period>
+      <Artist>Berthe Morisot</Artist>
+      <Hints>
+        <string>Berthe Morisot was one of two famous female impressionist painters and is best distinguished from the other through her sketchy brushstrokes with loose contours.</string>
+        <string>Other impressionist painters called her a "virtuoso colorist." She was known for creating a sense of space and depth through her use of color.</string>
+        <string>Morisot's paintings focused on feminine subjects depicted in outdoor settings. </string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Villa at the Seaside">
+      <Period>French Impressionism</Period>
+      <Artist>Berthe Morisot</Artist>
+      <Hints>
+        <string>Morisot's paintings focused on exclusively adult feminine subjects depicted in outdoor settings. </string>
+        <string>Morisot was one of two famous female impressionist painters and is best distinguished from the other through her sketchy brushstrokes and loose contours.</string>
+        <string>Other impressionist painters called her a "virtuoso colorist." She was known for creating a sense of space and depth through her use of color.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Young Woman Sewing in a Garden">
+      <Period>French Impressionism</Period>
+      <Artist>Berthe Morisot</Artist>
+      <Hints>
+        <string>Morisot's paintings focused on exclusively adult feminine subjects depicted in outdoor settings. </string>
+        <string>Morisot was one of two famous female impressionist painters and is best distinguished from the other through her sketchy brushstrokes and loose contours.</string>
+        <string>Other impressionist painters called her a "virtuoso colorist." She was known for creating a sense of space and depth through her use of color.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Little Girl in Blue Armchair">
+      <Period>French Impressionism</Period>
+      <Artist>Mary Cassatt</Artist>
+      <Hints>
+	<string>Most famously, Cassatt is known for depicting the tender relationship between mother and child.</string>
+        <string>She was strongly influence by Japanese Woodblock prints, using highly distinguishable contours and drastic coloring in her paintings.</string>
+        <string>Mary Cassatt was one of two famous female impressionist painters and is distinguished from the other by the inclusion of children in her paintings.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Mother and Child">
+      <Period>French Impressionism</Period>
+      <Artist>Mary Cassatt</Artist>
+      <Hints>
+	<string>Most famously, Cassatt is known for depicting the tender relationship between mother and child.</string>
+        <string>She was strongly influence by Japanese Woodblock prints, using highly distinguishable contours and drastic coloring in her paintings.</string>
+        <string>Mary Cassatt was one of two famous female impressionist painters and is distinguished from the other by the inclusion of children in her paintings.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Summertime">
+      <Period>French Impressionism</Period>
+      <Artist>Mary Cassatt</Artist>
+      <Hints>
+	<string>Most famously, Cassatt is known for depicting the tender relationship between mother and child.</string>
+        <string>She was strongly influence by Japanese Woodblock prints, using highly distinguishable contours and drastic coloring in her paintings.</string>
+        <string>Mary Cassatt was one of two famous female impressionist painters and is distinguished from the other by the inclusion of children in her paintings.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Young Mother">
+      <Period>French Impressionism</Period>
+      <Artist>Mary Cassatt</Artist>
+      <Hints>
+	<string>Most famously, Cassatt is known for depicting the tender relationship between mother and child.</string>
+        <string>She was strongly influence by Japanese Woodblock prints, using highly distinguishable contours and drastic coloring in her paintings.</string>
+        <string>Mary Cassatt was one of two famous female impressionist painters and is distinguished from the other by the inclusion of children in her paintings.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Paris Street Rainy Day">
+      <Period>French Impressionism</Period>
+      <Artist>Gustave Caillebotte</Artist>
+      <Hints>
+        <string>Caillebotte used realism to depict close up images of people in urban Paris.</string>
+        <string>Characteristic of his work, Caillebotte used the titled ground composition, depicting the plane floor at a slant to create depth.</string>
+        <string>Gustave Caillebotte painting style boarders on Neo-Impressionism with greater attention to realism and controlled brushstrokes than other impressionist art.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Les Raboteurs de Parquet">
+      <Period>French Impressionism</Period>
+      <Artist>Gustave Caillebotte</Artist>
+      <Hints>
+        <string>Caillebotte used realism to depict close up images of people in urban Paris.</string>
+        <string>Characteristic of his work, Caillebotte used the titled ground composition, depicting the plane floor at a slant to create depth.</string>
+        <string>Gustave Caillebotte painting style boarders on Neo-Impressionism with greater attention to realism and controlled brushstrokes than other impressionist art.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Pont de L'Europe">
+      <Period>French Impressionism</Period>
+      <Artist>Gustave Caillebotte</Artist>
+      <Hints>
+        <string>Caillebotte used realism to depict close up images of people in urban Paris.</string>
+        <string>Characteristic of his work, Caillebotte used the titled ground composition, depicting the plane floor at a slant to create depth.</string>
+        <string>Gustave Caillebotte painting style boarders on Neo-Impressionism with greater attention to realism and controlled brushstrokes than other impressionist art.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Avenue de Opera Paris">
+      <Period>French Impressionism</Period>
+      <Artist>Camille Pissarro</Artist>
+      <Hints>
+        <string>Although well-known for his rural landscapes, Camille Pissarro's macro scale paintings urban Paris are what won him acclaim as a French Impressionist painter. </string>
+        <string>He painted urban settings as if they were landscapes, using an overhead encompassing perspective.</string>
+        <string>Pissarro's worked with blotchy brushstrokes causes his subjects to lack any form of contour.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Boulevard Montmartre">
+      <Period>French Impressionism</Period>
+      <Artist>Camille Pissarro</Artist>
+      <Hints>
+        <string>Although well-known for his rural landscapes, Camille Pissarro's macro scale paintings urban Paris are what won him acclaim as a French Impressionist painter. </string>
+        <string>He painted urban settings as if they were landscapes, using an overhead encompassing perspective.</string>
+        <string>Pissarro's worked with blotchy brushstrokes causes his subjects to lack any form of contour.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "La Place du theatre Francais">
+      <Period>French Impressionism</Period>
+      <Artist>Camille Pissarro</Artist>
+      <Hints>
+        <string>Although well-known for his rural landscapes, Camille Pissarro's macro scale paintings urban Paris are what won him acclaim as a French Impressionist painter. </string>
+        <string>He painted urban settings as if they were landscapes, using an overhead encompassing perspective.</string>
+        <string>Pissarro's worked with blotchy brushstrokes causes his subjects to lack any form of contour.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Place du Havre a Paris">
+      <Period>French Impressionism</Period>
+      <Artist>Camille Pissarro</Artist>
+      <Hints>
+        <string>Although well-known for his rural landscapes, Camille Pissarro's macro scale paintings urban Paris are what won him acclaim as a French Impressionist painter. </string>
+        <string>He painted urban settings as if they were landscapes, using an overhead encompassing perspective.</string>
+        <string>Pissarro's worked with blotchy brushstrokes causes his subjects to lack any form of contour.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Water Lilies">
+      <Period>French Impressionism</Period>
+      <Artist>Claude Monet</Artist>
+      <Hints>
+        <string>Unlike other impressionist painters, Monet painted subjects in an unclear abstract manner leaving the viewer questioning what the painting is depicting.</string>
+        <string>He layered thick paint on his canvas of varying colors to give a textured appearance to his work. As Monet began to go blind in later life, this texture became more pronounced.</string>
+        <string>Claude Monet's artwork diverges from clear depiction of form and linear perspective, prescribing to a nonrealistic portrayal of his subjects.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Impression Sunrise">
+      <Period>French Impressionism</Period>
+      <Artist>Claude Monet</Artist>
+      <Hints>
+        <string>Unlike other impressionist painters, Monet painted subjects in an unclear abstract manner leaving the viewer questioning what the painting is depicting.</string>
+        <string>He layered thick paint on his canvas of varying colors to give a textured appearance to his work. As Monet began to go blind in later life, this texture became more pronounced.</string>
+        <string>Claude Monet's artwork diverges from clear depiction of form and linear perspective, prescribing to a nonrealistic portrayal of his subjects.</string>
+      </Hints>
+    </Painting> 
+    <Painting name = "Rouen Cathedral">
+      <Period>French Impressionism</Period>
+      <Artist>Claude Monet</Artist>
+      <Hints>
+        <string>Unlike other impressionist painters, Monet painted subjects in an unclear abstract manner leaving the viewer questioning what the painting is depicting.</string>
+        <string>He layered thick paint on his canvas of varying colors to give a textured appearance to his work. As Monet began to go blind in later life, this texture became more pronounced.</string>
+        <string>Claude Monet's artwork diverges from clear depiction of form and linear perspective, prescribing to a nonrealistic portrayal of his subjects.</string>
+      </Hints>
+    </Painting>
+    <Painting name = "Saint Lazare Train Station">
+      <Period>French Impressionism</Period>
+      <Artist>Claude Monet</Artist>
+      <Hints>
+        <string>Unlike other impressionist painters, Monet painted subjects in an unclear abstract manner leaving the viewer questioning what the painting is depicting.</string>
+        <string>He layered thick paint on his canvas of varying colors to give a textured appearance to his work. As Monet began to go blind in later life, this texture became more pronounced.</string>
+        <string>Claude Monet's artwork diverges from clear depiction of form and linear perspective, prescribing to a nonrealistic portrayal of his subjects.</string>
+      </Hints>
+    </Painting>  
+  </Paintings>
+</PaintingCollection>
